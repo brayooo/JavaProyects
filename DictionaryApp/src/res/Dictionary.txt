@@ -1,0 +1,8 @@
+Saco,Chaqueta,Abrigo,Chal
+Jarra,Jarron,Florero
+Hogar,Casa,Morada,Vivienda,Residencia,Domicilio
+Luz,Claridad,Iluminacion
+Celular,Movil,Telefono
+Pantuflas,Babuchas
+Mouse,Raton
+reconocer,comprender
