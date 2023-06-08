@@ -2,7 +2,7 @@
 
 # Repository Structure
 
-This repository contains a number of folders containing different projects and code samples. Below is a brief description of each of the folders:
+This repository contains a number of folders containing different projects and code samples. Below is a brief description of each of the folders.
 ## Compilation: Java 18 or higher.
 
 ## [BinaryTree](./BinaryTree)
